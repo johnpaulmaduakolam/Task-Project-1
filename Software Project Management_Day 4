@@ -14,21 +14,21 @@ Strategies to use to prevent budget overruns include budget forecasting, regular
 
 Agile vs. Waterfall Methodologies
 
-Aspect	                 Agile	                                 Waterfall
+Aspect	                 Agile	                                  Waterfall
 
 Approach	               Iterative and incremental       	       Linear and sequential
 
-Flexibility              Highly flexible, allows changes. 	     Rigid, changes are difficult.
+Flexibility             Highly flexible, allows changes. 	      Rigid, changes are difficult.
 
-Project Scope	           Can evolve over time                    Defined at the beginning
+Project Scope	          Can evolve over time                    Defined at the beginning
 
-Development Phases	     Multiple iterations (sprints)	         Defined phases (Linear flow)
+Development Phases	     Multiple iterations (sprints)	          Defined phases (Linear flow)
 
-Client Involvement	     Continuous involvement and feedback	   Minimal involvement after initial planning
+Client Involvement	     Continuous involvement and feedback	    Minimal involvement after initial planning
 
-Testing	                 Continuous testing 	                   Testing happens only after development is complete
+Testing	                Continuous testing 	                    Testing happens only after development is complete
 
-Risk Management          Lower risk due to iterative feedback	   Higher risk if problems arise late in the project
+Risk Management         Lower risk due to iterative feedback	   Higher risk if problems arise late in the project
 
 Advantages & Disadvantages
 
